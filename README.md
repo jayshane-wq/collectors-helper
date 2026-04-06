@@ -1,2 +1,24 @@
-# collectors-helper
-- Guides the collector through hardship discussion - Captures income and expense inputs - Calculates disposable income and affordability - Evaluates likely options to bring the account current
+# Collectors Helper
+
+A Streamlit demo app for a collections / servicing interview.
+
+## What it does
+- Guides the collector through hardship discussion
+- Captures income and expense inputs
+- Calculates disposable income and affordability
+- Evaluates likely options:
+  - Repayment
+  - Deferral
+  - Modification
+  - Forbearance
+  - Charge-Off / Litigate
+- Produces a recommendation, rationale, and suggested talking points
+
+## Run locally
+```bash
+pip install streamlit pandas
+streamlit run collectors_helper.py
+```
+
+## Demo notes
+This is an interview prototype. The workout logic is intentionally transparent and can be tuned to match company policy.
