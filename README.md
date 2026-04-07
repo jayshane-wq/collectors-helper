@@ -1,6 +1,6 @@
 # Collectors Helper
 
-A Streamlit demo app for a collections / servicing interview.
+A Streamlit demo app for a collections - link to app -  https://collectors-assistant.streamlit.app/
 
 ## What it does
 - Guides the collector through hardship discussion
