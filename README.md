@@ -21,4 +21,4 @@ streamlit run collectors_helper.py
 ```
 
 ## Demo notes
-This is an interview prototype. The workout logic is intentionally transparent and can be tuned to match company policy.
+This is a prototype. The workout logic is intentionally transparent and can be tuned to match company policy.
